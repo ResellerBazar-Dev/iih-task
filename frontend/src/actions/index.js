@@ -1,0 +1,13 @@
+// Super Admin
+export const GET_ALL_SUPER_ADMIN_DATA = "GET_ALL_SUPER_ADMIN_DATA";
+export const ADD_SUPER_ADMIN_DATA = "ADD_SUPER_ADMIN_DATA";
+
+// Admin
+export const GET_ALL_ADMIN_DATA = "GET_ALL_ADMIN_DATA";
+export const ADD_ADMIN_DATA = "ADD_ADMIN_DATA";
+export const DELETE_ADMIN_DATA = "DELETE_ADMIN_DATA";
+
+// Emp
+export const GET_ALL_EMP_DATA = "GET_ALL_EMP_DATA";
+export const ADD_EMP_DATA = "ADD_EMP_DATA";
+export const DELETE_EMP_DATA = "DELETE_EMP_DATA";

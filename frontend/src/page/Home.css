@@ -1,0 +1,20 @@
+.css-nzinn5-MuiContainer-root {
+    max-width: 50% !important;
+  }
+  .image_input {
+    display: none !important;
+  }
+  .super_admin_cards{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  .admin_cards{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  .emp_cards{
+    display: flex;
+    justify-content: space-around;
+  }
